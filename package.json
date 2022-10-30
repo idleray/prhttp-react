@@ -1,0 +1,27 @@
+{
+  "name": "prhttp-react",
+  "version": "0.1.0",
+  "description": "React lifecycle binding for prhttp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleray/prhttp-react.git"
+  },
+  "keywords": [
+    "prhttp",
+    "react"
+  ],
+  "author": "idleray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idleray/prhttp-react/issues"
+  },
+  "homepage": "https://github.com/idleray/prhttp-react#readme",
+  "dependencies": {
+    "hoist-non-react-statics": "^3.3.2"
+  },
+  "peerDependencies": {
+    "react": "^16.0 || ^17.0 || ^18.0",
+    "prhttp": "^2.1.1"
+  }
+}
