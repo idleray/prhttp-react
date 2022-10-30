@@ -22,6 +22,6 @@
   },
   "peerDependencies": {
     "react": "^16.0 || ^17.0 || ^18.0",
-    "prhttp": "^2.1.1"
+    "prhttp": "^2.1.2"
   }
 }
