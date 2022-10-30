@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Lifecycle } from 'prhttp/lifecycle'
+import { Lifecycle } from 'prhttp/lifecycle.js'
 
 export function useLifecycle(httpClient) {
     useEffect( () => {

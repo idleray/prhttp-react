@@ -1,6 +1,6 @@
 import React from "react";
 import hoistStatics from 'hoist-non-react-statics'
-import { Lifecycle } from 'prhttp/lifecycle'
+import { Lifecycle } from 'prhttp/lifecycle.js'
 
 export function bindLifecycle(httpClient) {
     const wrapWithClient = (WrappedComponent) => {
